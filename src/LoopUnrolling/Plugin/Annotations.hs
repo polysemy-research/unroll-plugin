@@ -1,3 +1,5 @@
+{-# LANGUAGE DeriveDataTypeable #-}
+
 module LoopUnrolling.Plugin.Annotations where
 
 import Data.Data
